@@ -1,0 +1,9 @@
+# Ignorar node_modules y otras carpetas que no quieres subir
+node_modules/
+src/
+video/
+
+# Ignorar archivos de configuración específicos
+gulpfile.js
+package.json
+package-lock.json
