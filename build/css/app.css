@@ -486,7 +486,7 @@ h3 {
 }
 
 .contenedorBanner {
-  background-image: url("../../../build/img/codigo_fondo.jpg");
+  background-image: url("./build/img/codigo_fondo.jpg");
   width: 100%;
   height: 85vh;
   background-position: center center;
@@ -499,7 +499,7 @@ h3 {
 }
 @supports (image-orientation: from-image) {
   .contenedorBanner {
-    background-image: url("../../../build/img/codigo_fondo.avif");
+    background-image: url("./build/img/codigo_fondo.avif");
   }
 }
 .contenedorBanner h1, .contenedorBanner p {
